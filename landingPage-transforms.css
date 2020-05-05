@@ -1,0 +1,7 @@
+.contact {
+  color: black;
+}
+.contact:hover {
+  transition-duration: 3s;
+  transform: scaleY(2.0);
+}
